@@ -3,7 +3,7 @@
 Overview: This project develops an end-to-end Natural Language Processing (NLP) pipeline to classify social media posts as real or fake. The system applies text preprocessing, feature extraction, neural network modelling, and topic discovery techniques to analyse large-scale textual data.
 
 Dataset: 
-The dataet contains
+The dataset contains
 * 89,000+ social media posts
 * 947 news headlines
 * Binary labels indicating whether content is real or fake
@@ -27,7 +27,7 @@ Methods:
 3. Classification Models
 
 * Multi-Layer Perceptron (MLP)
-  - TF-IDF document ca=lassification
+  - TF-IDF document classification
   - Hyperparameter tuning
   - Validation and test evaluation
 * Convolutional Neural Network
